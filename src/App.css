@@ -1,0 +1,38 @@
+
+
+.darkMode {
+    background-color: black;
+    color: grey;
+}
+
+.cardBodyDark {
+    background-color: grey;
+    text-align: center;
+}
+
+.cartContainer {
+    margin-top: 4%;
+    margin-left: 25%;
+}
+
+.divButtons button {
+    margin: 3px;
+}
+
+.cardCart {
+    max-width: 500px;
+}
+
+.imagenchica {
+    max-width: 400px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.imagenround {
+    border-radius: 10%;
+}
+
+.imgcircle {
+    border-radius: 50%;
+}

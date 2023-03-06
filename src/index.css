@@ -1,0 +1,15 @@
+.container-fluid {
+
+    margin-right: auto;
+    
+    margin-left: auto;
+    
+    max-width: 1600px;
+    
+    }
+
+.cardStyle {
+        margin-top: 50px;
+        align-items: center;
+        justify-content: center;
+    }
